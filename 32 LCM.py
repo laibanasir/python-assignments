@@ -3,13 +3,13 @@ print('To find LCM enter ')
 num1 = int(input('number 1 : '))
 num2 = int(input('number 2 : '))
 if num1 > num2:
-        greater = num2
+        lesser = num1
 else:
-        greater = num1
+        lesser = num2
 while True:
-    if((num1 % greater == 0) and (num2 % greater == 0)):
-        lcm = greater
+    if(lesser % num1 == 0 and lesser % num2 == 0):
+        lcm = lesser
         break
-    greater += 1
+    lesser += 1
     
 print('The lcm of' , num1 , 'and' , num2 , 'is' , lcm)
