@@ -94,6 +94,5 @@ while True:
         print('------------------exited------------------')
         break
 
-    # while choice != '1' or choice != '2' or choice != '3' or choice != '4' or choice != '5' or choice != '6':
-    #     print('You entered an invalid option')
-    #     choice = input('Enter the number of your choice')
+    else: 
+         print('You entered an invalid option')
