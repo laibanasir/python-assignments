@@ -44,7 +44,6 @@ Program to convert all units of time into seconds
 Program to calculate body mass index
 ## [22 task](https://github.com/laibanasir/python-assignments/blob/master/23%20temperature%20conversion.py)
 Program to convert temperatures to and from Celsius, Fahrenheit
-## [23 task]()
 ## [24 task](https://github.com/laibanasir/python-assignments/blob/master/24%20sum%20of%20n%20postive%20integers.py)
 Program to sum of first n positive integers
 ## [25 task](https://github.com/laibanasir/python-assignments/blob/master/25%20sum%20of%20all%20digits%20in%20an%20integer.py)
